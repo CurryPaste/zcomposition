@@ -1,0 +1,1 @@
+import{_ as o,d as t,o as r,a as s,e,F as a}from"./app.35792cb8.js";import m from"./demo1.f9f6619d.js";import n from"./demo2.62093b29.js";import"./mitt.61a19a52.js";import"./index.0dcdc637.js";import"./lodash.b58bec76.js";const p=t({setup(_){return(c,u)=>(r(),s(a,null,[e(m),e(n)],64))}});var x=o(p,[["__file","UseEventBus.vue"]]);export{x as default};
